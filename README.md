@@ -1,3 +1,10 @@
+
+Desafio de projeto calculadora, adicionando a adição e a multiplicação.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
